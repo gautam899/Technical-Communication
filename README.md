@@ -6,4 +6,4 @@ The application include:
 a. User Manual
 b. Document Design
 c. Flyer
-d. Broucher
+d. Brochure
